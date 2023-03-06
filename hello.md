@@ -8,4 +8,6 @@ let's try to do *italic*
 
 ### Headline 3
 
-this text is **NOT** as important 
+this text is **NOT** as important as the others
+
+here is a [Google](www.google.de) Link 
