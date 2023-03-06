@@ -4,6 +4,7 @@ this is my first repo
 this text is important 
 
 ## Headline 2
+let's try to do *italic*
 
 ### Headline 3
 
