@@ -26,3 +26,5 @@ for() {
 }
 
 ```
+
+if you just want to write a line `i === 0`
