@@ -22,7 +22,7 @@ here is a [Google](https://www.google.com/) Link
 
 ### Code
 ``` js
-for() {
+for (let i = 0; i<6; i++) {
 }
 
 ```
